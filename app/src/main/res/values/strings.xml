@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login</string>
+<string name="Link">
+
+    <a href ="@">Cadastrar</a>
+</string>
+</resources>
