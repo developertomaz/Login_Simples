@@ -8,7 +8,7 @@
 
 
 
-<img width="700" height="480" src="https://github.com/developertomaz/imgens/blob/main/validacao.png" alt="ilustração de um computador">
+<img width="700" height="580" src="https://github.com/developertomaz/imgens/blob/main/validacao.png" alt="ilustração de um computador">
 
 # 🛠 Tecnologias Utilizadas
 
